@@ -2,9 +2,13 @@
 Python Code to Check if a word exists in an grid? Like the find words we used to solve as kids. For this question, you can go left or right, up or down. To keep it simple, no diagonals
 
 Example :
+
   acdef
+  
   ghije
+  
   mopqu
+  
   swtuv
 
 return true for word `how` and `vue` but false for `mope`
