@@ -4,11 +4,8 @@ Python Code to Check if a word exists in an grid? Like the find words we used to
 Example :
 
   acdef
-  
   ghije
-  
   mopqu
-  
   swtuv
 
 return true for word `how` and `vue` but false for `mope`
