@@ -37,4 +37,4 @@ c. Now you can search for the word by running the command `python wordExists.py 
     
     ex:  python wordExists.py how
 
-You will see the output at the terminal
+You will see the boolean output `true` if the words `how` and `vue` . You can then replace the search word with `mope` and execute the code to see the boolean output `false`
