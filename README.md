@@ -3,10 +3,10 @@ Python Code to Check if a word exists in an grid? Like the find words we used to
 
 Example :
 
-  acdef
-  ghije
-  mopqu
-  swtuv
+    acdef
+    ghije
+    mopqu
+    swtuv
 
 return true for word `how` and `vue` but false for `mope`
 
@@ -34,6 +34,7 @@ a. Run the command `https://github.com/harithatavarthy/yieldmo_wordExists.git`
 b. Run the command `mkdir yieldmo_wordExists`
 
 c. Now you can search for the word by running the command `python mergeContacts.py <searchword>`
+    
     ex:  `python mergeContacts.py how`
 
 You will see the output at the terminal
