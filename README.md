@@ -31,10 +31,10 @@ https://github.com/harithatavarthy/yieldmo_wordExists/blob/master/wordExists.ipy
 
 a. Run the command `git clone https://github.com/harithatavarthy/yieldmo_wordExists.git`
 
-b. Run the command `mkdir yieldmo_wordExists`
+b. Run the command `cd yieldmo_wordExists`
 
-c. Now you can search for the word by running the command `python mergeContacts.py <searchword>`
+c. Now you can search for the word by running the command `python wordExists.py <searchword>`
     
-    ex:  python mergeContacts.py how
+    ex:  python wordExists.py how
 
 You will see the output at the terminal
